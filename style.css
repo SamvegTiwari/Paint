@@ -1,0 +1,16 @@
+body {
+    background-color:aquamarine;
+  
+  ;
+    text-align:center;
+    border-width:10px;
+    border-radius:80px;
+  }
+  .text-input {
+    width: 50px;
+  }
+  .myCanvas {
+    border-width: 100;
+    border-color:black;
+    background-color: white;
+  }
